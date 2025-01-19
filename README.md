@@ -48,7 +48,7 @@
 ### 🌎 Let's Connect
 
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" width="70" height="20"></a>
+  <a href=""><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" width="50" height="20"></a>
   &nbsp;&nbsp;
   <a href=""><img src="https://img.shields.io/badge/-Portfolio-purple?style=flat&logo=google-chrome"></a>
   &nbsp;&nbsp;
