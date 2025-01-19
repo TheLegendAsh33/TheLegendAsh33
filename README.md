@@ -38,14 +38,6 @@
 
 ---
 
-### 📈 My GitHub Stats
-
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=TheLegendAsh33&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-</div>
-
----
-
 ### 🔥 Featured Contributions
 
 - 🌟 Speaker at **GDSC Events** on **Web Development & Figma Design**.
