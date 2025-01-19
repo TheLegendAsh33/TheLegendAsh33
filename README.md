@@ -38,15 +38,6 @@
 
 ---
 
-### 📈 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish&show_icons=true&theme=radical" alt="Ashish's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
 ### 🔥 Featured Contributions
 
 - 🌟 Speaker at **GDSC Events** on **Web Development & Figma Design**.
