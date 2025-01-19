@@ -13,7 +13,7 @@
 - 📱 Currently diving deep into **React Native** & **Flutter** to craft stunning mobile experiences.
 - 🖌️ **UI/UX Designer**, making designs come alive with exceptional user experiences.
 - 🛡️ Exploring **Cybersecurity** with **Kali Linux** for ethical hacking and penetration testing.
-- 💻 Practicing **DSA daily on LeetCode** for college placements.
+- 💻 Practicing **DSA daily on LeetCode**.
 - 🧠 Always learning: **Java, JavaScript, C, C++**, and more!
 
 ---
@@ -27,13 +27,13 @@
 ---
 
 ### ✨ My Recent Projects
-#### 🌐 [Project 1: Coding Club Community App](#)
+#### 🌐 Project 1: Coding Club Community App
 - Flutter-based app designed to bring coding enthusiasts together. **Features:** Real-time chat, event notifications, and personalized coding challenges.
 
-#### 📱 [Project 2: Event Management App](#)
+#### 📱 Project 2: Event Management App
 - A React Native app for organizing and tracking events with sleek UI and robust functionality.
 
-#### 🖥️ [Project 3: Online Code Compiler](#)
+#### 🖥️ Project 3: Online Code Compiler
 - A **web platform** where users can compile code instantly without installations, even offline.
 
 ---
