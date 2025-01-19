@@ -41,7 +41,7 @@
 ### 📈 My GitHub Stats
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TheLegendAsh33&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=TheLegendAsh33&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 </div>
 
 ---
