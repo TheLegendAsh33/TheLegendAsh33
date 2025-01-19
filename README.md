@@ -54,20 +54,12 @@
 
 ---
 
-### 🌟 Fun Facts
-
-- 🎮 Hardcore gamer and future **eSports player**.
-- 🌌 Building a **tech + gaming community** with my startup **Trioist Lancer**.
-- 🎨 My UI/UX designs aim to break the ordinary with **bold and intuitive designs**.
-
----
-
 ### 🌎 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/ashish"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="https://growmoresofttech.com"><img src="https://img.shields.io/badge/-Portfolio-purple?style=flat&logo=google-chrome"></a>
-  <a href="https://github.com/ashish"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"></a>
+  <a href=""><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href=""><img src="https://img.shields.io/badge/-Portfolio-purple?style=flat&logo=google-chrome"></a>
+  <a href=""><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"></a>
 </p>
 
 ---
