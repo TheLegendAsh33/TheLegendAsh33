@@ -27,13 +27,13 @@
 ---
 
 ### ✨ My Recent Projects
-#### 🌐 Project 1: Coding Club Community App
+### 🌐 Project 1: Coding Club Community App
 - Flutter-based app designed to bring coding enthusiasts together. **Features:** Real-time chat, event notifications, and personalized coding challenges.
 
-#### 📱 Project 2: Event Management App
+### 📱 Project 2: Event Management App
 - A React Native app for organizing and tracking events with sleek UI and robust functionality.
 
-#### 🖥️ Project 3: Online Code Compiler
+### 🖥️ Project 3: Online Code Compiler
 - A **web platform** where users can compile code instantly without installations, even offline.
 
 ---
