@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Developer | 🌟 Designer | 🛡️ Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=ecf05e475vsu5z0mlrhh31v0xrj144az2qu4j3gzrqz5hveg&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="550" height="400" />
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=ecf05e475vsu5z0mlrhh31v0xrj144az2qu4j3gzrqz5hveg&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="400" />
 </p>
 
 ---
