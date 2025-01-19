@@ -1,16 +1,78 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ashish!</h1>
+<h3 align="center">🚀 Full-Stack Developer | 🌟 Designer | 🛡️ Cybersecurity Enthusiast</h3>
 
-<!--
-**TheLegendAsh33/TheLegendAsh33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me
+
+- 🔭 I’m a **MERN Stack Developer** passionate about building **modern web apps**.
+- 📱 Currently diving deep into **React Native** & **Flutter** to craft stunning mobile experiences.
+- 🖌️ **UI/UX Designer**, making designs come alive with exceptional user experiences.
+- 🛡️ Exploring **Cybersecurity** with **Kali Linux** for ethical hacking and penetration testing.
+- 💻 Practicing **DSA daily on LeetCode** for college placements.
+- 🧠 Always learning: **Java, JavaScript, C, C++**, and more!
+
+---
+
+### 🚀 Skills and Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,flutter,tailwind,bootstrap,figma,git,linux,java,c,cpp" />
+</div>
+
+---
+
+### ✨ My Recent Projects
+#### 🌐 [Project 1: Coding Club Community App](#)
+- Flutter-based app designed to bring coding enthusiasts together. **Features:** Real-time chat, event notifications, and personalized coding challenges.
+
+#### 📱 [Project 2: Event Management App](#)
+- A React Native app for organizing and tracking events with sleek UI and robust functionality.
+
+#### 🖥️ [Project 3: Online Code Compiler](#)
+- A **web platform** where users can compile code instantly without installations, even offline.
+
+---
+
+### 📈 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashish&show_icons=true&theme=radical" alt="Ashish's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🔥 Featured Contributions
+
+- 🌟 Speaker at **GDSC Events** on **Web Development & Figma Design**.
+- 🥇 Award-winning coder: Gold & Silver Awards in coding competitions.
+
+---
+
+### 🌟 Fun Facts
+
+- 🎮 Hardcore gamer and future **eSports player**.
+- 🌌 Building a **tech + gaming community** with my startup **Trioist Lancer**.
+- 🎨 My UI/UX designs aim to break the ordinary with **bold and intuitive designs**.
+
+---
+
+### 🌎 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/ashish"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://growmoresofttech.com"><img src="https://img.shields.io/badge/-Portfolio-purple?style=flat&logo=google-chrome"></a>
+  <a href="https://github.com/ashish"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="300" />
+</p>
+
