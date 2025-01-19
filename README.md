@@ -21,7 +21,7 @@
 ### 🚀 Skills and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,figma,git,github,linux,kali,androidstudio,flutter,dart,java,c,cpp,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,figma,illustrator,git,github,linux,kali,androidstudio,flutter,dart,java,c,cpp,vscode" />
 </div>
 
 ---
