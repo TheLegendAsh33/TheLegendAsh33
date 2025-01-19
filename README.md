@@ -49,7 +49,9 @@
 
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+  &nbsp;&nbsp;
   <a href=""><img src="https://img.shields.io/badge/-Portfolio-purple?style=flat&logo=google-chrome"></a>
+  &nbsp;&nbsp;
   <a href=""><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"></a>
 </p>
 
