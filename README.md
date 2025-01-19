@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Developer | 🌟 Designer | 🛡️ Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=ecf05e475vsu5z0mlrhh31v0xrj144az2qu4j3gzrqz5hveg&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="400" />
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=ecf05e475vsu5z0mlrhh31v0xrj144az2qu4j3gzrqz5hveg&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500" height="300" />
 </p>
 
 ---
@@ -40,8 +40,9 @@
 
 ### 🔥 Featured Contributions
 
-- 🌟 Speaker at **GDSC Events** on **Web Development & Figma Design**.
-- 🥇 Award-winning coder: Gold & Silver Awards in coding competitions.
+- 🌟 **Speaker** at GDSC Events on Web Development & Figma Design.
+- 🥇 **Award-winning coder** with Gold & Silver Awards in coding competitions, specializing in UI/UX design, problem-solving, and web design.
+- 🎓 **Participant** in Microsoft Bootcamp and Cybersecurity Bootcamp, showcasing expertise in emerging technologies and digital safety.
 
 ---
 
